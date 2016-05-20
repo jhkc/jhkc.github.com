@@ -4,11 +4,10 @@ title:  "Welcome to Jekyll!"
 date:   2016-05-19 15:08:38 +0900
 categories: jekyll update
 ---
-# HELLO
-##  안녕
-###  ㅋㅋㅋ
-# 왜 적용이 안되
-## hihihihihi
+안녕하세요 저는 김재환 입니다.
+나이는 25입니다.
+컴공 전공 합니다.
+
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home

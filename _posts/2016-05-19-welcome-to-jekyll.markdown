@@ -5,8 +5,9 @@ date:   2016-05-19 15:08:38 +0900
 categories: jekyll update
 ---
 # HELLO
-## 안녕
-### ㅋㅋㅋ
+##  안녕
+###  ㅋㅋㅋ
+# 왜 적용이 안되
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home

@@ -10,6 +10,7 @@ categories: jekyll update
 
 컴공 전공 합니다.
 
+# 어렵네요.
 
 
 

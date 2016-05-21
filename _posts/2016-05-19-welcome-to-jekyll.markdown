@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-19 15:08:38 +0900
+title:  "Welcome to Jekyll! practice"
+date:   2016-05-21 15:16:38 +0900
 categories: jekyll update
----
+---  
+
+##과제-지킬을 이용한 자기소개서
+
 안녕하세요 저는 김재환 입니다.  
 
 나이는 25입니다.  

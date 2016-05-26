@@ -24,7 +24,7 @@ categories: jekyll update
 
 [jekyll-docs]:http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/   
 
-![image_test](https://www.google.co.kr/imgres?imgurl=http%3A%2F%2Fwww.kccosd.org%2Ffiles%2Ftesting_image.jpg&imgrefurl=http%3A%2F%2Fwww.kccosd.org%2Fnode%2F3310&docid=VRpGNxo6HHQUYM&tbnid=HX1Ch3CBYz9NRM%3A&w=500&h=335&bih=667&biw=1366&ved=0ahUKEwj9pvXE8vbMAhVDjZQKHcvCBMgQMwgbKAAwAA&iact=mrc&uact=8)  
+![image_test] (https://www.google.co.kr/imgres?imgurl=http%3A%2F%2Fwww.kccosd.org%2Ffiles%2Ftesting_image.jpg&imgrefurl=http%3A%2F%2Fwww.kccosd.org%2Fnode%2F3310&docid=VRpGNxo6HHQUYM&tbnid=HX1Ch3CBYz9NRM%3A&w=500&h=335&bih=667&biw=1366&ved=0ahUKEwj9pvXE8vbMAhVDjZQKHcvCBMgQMwgbKAAwAA&iact=mrc&uact=8)  
 
 ***  
 

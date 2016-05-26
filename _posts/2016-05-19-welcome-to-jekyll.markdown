@@ -27,7 +27,7 @@ categories: jekyll update
 
 [jekyll-docs]:http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/   
 
-![image_test] (http://www.aliexpress.com/item/France-Miller-spring-High-imitation-painting-home-decorative-painting-high-end-hotel-clubs-cultural-gifts/32230798083.html)  
+![image_test](http://www.naver.com)  
 
 
 ***  

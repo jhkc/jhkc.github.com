@@ -25,7 +25,7 @@ categories: jekyll update
 ***  
 
 
-[jekyll-docs]: http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/ 
+[jekyll-docs]: http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/   
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

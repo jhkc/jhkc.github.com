@@ -18,11 +18,14 @@ categories: jekyll update
 
 간단한 자기소개는 여기서 마치겠습니다.  
 
-특이사항으로는  **마크다운이 문법이 잘 안먹어서 어렵네요.**  
+특이사항으로는  *마크다운이 문법이 잘 안되서 어렵네요.*  
+
+>마크다운 문범 참조 사이트   
+
+***  
 
 
-
-
+[jekyll-docs]: http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/ 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
